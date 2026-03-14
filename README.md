@@ -162,4 +162,5 @@ FRONTEND_URL=http://localhost:3000
 
 ## Resume-Friendly Summary
 
-Developed a full-stack cosmetics store and skincare consultation platform with role-based access for customers, agents, and admins. Built a React frontend with protected routes and dashboard flows, and a Node.js/Express backend with MongoDB, JWT authentication, OTP support, coupon logic, order management, review handling, and image upload functionality.
+Developed a full-stack cosmetics store and skincare consultation platform with role-based access for customers, agents, and admins. Built a React frontend with protected routes and dashboard flows, and a Node.js/Express backend with MongoDB, JWT authentication, OTP support, coupon logic, order management, review handling, and image upload functionality. 
+
