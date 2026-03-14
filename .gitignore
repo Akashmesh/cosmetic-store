@@ -1,0 +1,14 @@
+node_modules/
+cosmetics-store-front/node_modules/
+cosmetics-store-front/build/
+Cosmetics-store-Backend/uploads/
+.env
+.env.*
+!.env.example
+.vscode/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+Thumbs.db
+.DS_Store
