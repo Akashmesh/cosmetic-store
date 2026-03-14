@@ -163,3 +163,37 @@ FRONTEND_URL=http://localhost:3000
 ## Resume-Friendly Summary
 
 Developed a full-stack cosmetics store and skincare consultation platform with role-based access for customers, agents, and admins. Built a React frontend with protected routes and dashboard flows, and a Node.js/Express backend with MongoDB, JWT authentication, OTP support, coupon logic, order management, review handling, and image upload functionality.
+
+## Screenshots of the Project
+
+### Home Page
+![Home Page](./screenshots/landingpage.jpeg)
+
+### Home Page - Dark Mode
+![Home Page - Dark Mode](./screenshots/darkmode.jpeg)
+
+### Skin Care Consultation Form
+![Skin Care Consulatation Form](./screenshots/skincareform.jpeg)
+
+### Product Gallery
+![Product Gallery](./screenshots/productgallery.jpeg)
+
+### Admin Order Page
+![Admin Order Page](./screenshots/orderpage.jpeg)
+
+### Order History
+![Order History](./screenshots/orderhistory.png)
+
+### Admin - User List
+![Admin User List](./screenshots/adminusers.png)
+
+### Admin - Skincare Forms
+![Admin - Skincare Forms](./screenshots/adminforms.png)
+
+
+### Admin - Agents
+![Admin - Agents](./screenshots/adminagents.png)
+
+
+### Adding New Product
+![Adding Product](./screenshots/add%20product.jpeg)
